@@ -15,6 +15,9 @@
 </a>
   <a href="mailto:sousadasilvafilipe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
+  Netlify:
+   <a href="https://app.netlify.com/teams/eufilpesilva/sites" target="_blank"><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
+</a>
  </div>
   
  
