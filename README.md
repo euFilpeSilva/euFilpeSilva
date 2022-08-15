@@ -7,7 +7,7 @@
   <img align="center" alt="Filipe-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Filipe-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Filipe-Silva" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
-  <img src="https://img.icons8.com/office/344/react.png" width="70">
+  <img src="https://img.icons8.com/office/344/react.png" width="40" height="30" alt="Filipe-Silva" align="center">
 </div>
 <br/>
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=s7thiago)](https://github.com/anuraghazra/github-readme-stats) -->
