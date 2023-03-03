@@ -8,9 +8,9 @@
   <img align="center" alt="Filipe-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="Filipe-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Filipe-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Filipe-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
   <img src="https://img.icons8.com/office/344/react.png" width="30" height="30" alt="Filipe-Silva" align="center">
   <img align="center" alt="Filipe-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Filipe-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
 </div>
 <br/>
 
