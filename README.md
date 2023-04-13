@@ -24,5 +24,8 @@
 </a>
  </div>
   
+ <p></p>
  
-Desenvolvedor Web Full Stack, deseja atestar se realmente possuo o conhecimento postado nessa plataforma? então bora pro desafio!!!!
+<div> 
+<p style="color: blue;">Desenvolvedor Web Full Stack, deseja atestar se realmente possuo o conhecimento postado nessa plataforma? então bora pro desafio!!!!</p>
+</div>
