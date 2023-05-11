@@ -27,5 +27,5 @@
  <p></p>
  
 <div> 
-<p style="color: blue; background-color: red;"><h4>Desenvolvedor Web Full Stack, deseja atestar se realmente possuo o conhecimento postado nessa plataforma? então bora pro desafio!!!!</h4></p>
+<p style="color: blue; background-color: red;"><h4>Desenvolvedor Web Full Stack</h4></p>
 </div>
